@@ -46,7 +46,7 @@ Follow our [blog](https://blog.amplifyit.be/series/power-ux) and subscribe to ou
 # FAQs
 
 ### Is PowerUX-MDA free
-Yes! It's fully free and has no usage limitations.
+Yes! this is a community version, it's fully free and has no usage limitations.
 
 ### Can I move flows across environments?
 PowerUX flows are solution-aware components, which means you can add them to Dataverse solutions and ship them to other environments
